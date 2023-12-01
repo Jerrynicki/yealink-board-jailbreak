@@ -9,7 +9,7 @@ hi flo
 
 [YouTube](https://youtube.com) (broken)
 
-[Youtube (via tinyurl)](https://tinyurl.com/mr8at6k2)
+[Youtube (via tinyurl)](https://tinyurl.com/mr8at6k2) (broken)
 
 [Mercoline](https://mercoline.de)
 
@@ -17,3 +17,6 @@ hi flo
 
 [Mercoline naked](mercoline.de)
 
+[SwissCows](https://swisscows.com/de)
+
+[YewTube](https://yewtu.be/)
