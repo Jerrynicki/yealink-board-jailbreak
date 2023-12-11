@@ -1,6 +1,8 @@
 # yealink-board-jailbreak
 hi flo
 
+## [Magic Iframe](https://jerrynicki.github.io)
+
 ## Links
 
 [Google](https://google.com) (broken)
