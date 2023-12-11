@@ -9,12 +9,12 @@
         let newlocation = document.getElementById("input").value;
         let iframe = document.getElementById("iframe");
 
-        iframe.setAttribute("src", newlocation);
+        iframe.setAttribute("src", "http://" + newlocation);
       }
     </script>
 
     <div class="big" style="transform: scale(3.0);">
-      <input id="input" name="input" type="text"><br /><br />
+      <p>http://</p><input id="input" name="input" type="text"><br /><br />
       <button onclick="go()">Go!</button><br /><br /><br /><br />
     </div>
     <iframe src="" id="iframe" name="iframe" width="100%" height="100%"/>
