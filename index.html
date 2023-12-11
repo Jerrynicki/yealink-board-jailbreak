@@ -10,11 +10,11 @@
       function go() {
         let iframe = document.getElementById("iframe");
         let input = document.getElementById("input");
-        let newlocation = input.getAttribute("value");
-
-        input.setAttribute("value", "");
+        let newlocation = input.value;
 
         iframe.setAttribute("src", "https://" + newlocation);
+        
+        input.value = "";
       }
     </script>
 
